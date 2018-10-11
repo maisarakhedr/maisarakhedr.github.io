@@ -3,74 +3,56 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Maisara Khedr
+    tagline: Scrum Master
+    avatar: maisara.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: maisarakhedr@gmail.com
+#    phone: 012 345 6789
+    website: maisarakhedr.github.io #do not add http://
+    linkedin: maisara-khedr
+    github: maisarakhedr
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+#    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Arabic
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-        
-    interests:
-      - item: Climbing
-        link:
+#    interests:
+#      - item: Climbing
+#        link:
 
-      - item: Snowboarding
-        link:
+#     - item: Snowboarding
+#        link:
 
-      - item: Cooking
-        link:
+#      - item: Cooking
+#        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I’m a certified scrum master (PSM I) with more than 9 years of experience divided as 5 years of development and more than 4 years as a scrum master, I played the product owner role several times. I love programming whatever the used programming language. I enjoy achieving project goal through professional, fun and continuously improving process.
 
-      Second paragraph if required.
+      I love scrum and worked for almost 8 years in different roles in scrum team. I worked as a scrum master in 8 teams with different sizes and different agile maturity levels.
+
+      I worked with many programming languages and tools in many projects for clients from USA, Switzerland, Australia, KSA and Egypt.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Information Systems
+      university: Faculty of Computer & Information, Assiut University
+      time: 2003 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,118 +64,113 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
+    - role: Scrum Master
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: eSpace, Alexandria
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I managed several teams, up to 3 teams at once. I managed up to 15 team members at once.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
+    - role: PHP Developer
       time: 2014 - 2015
-      company: Google, London
+      company: Ibtikar, Alexandria
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Building a project using symfony2, angularJs and mongodb.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Scrum Master
+      time: 2013 - 2014
+      company: Softxpert, Alexandria
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Managing team consists of developers,QCs, designer and system analyst. 
+        Coach the team through all scrum activities. 
 
-          - Bullet point
-          - Bullet point
+    - role: PHP Developer
+      time: 2010 - 2013
+      company: Softxpert, Alexandria
+      details: |
+        Building web applications using Symfony , Doctrine and mysql.
+
+    - role: Java Developer
+      time: 2009 - 2010
+      company: Media International, Cairo
+      details: |
+        Building web applications for islamonline.net online gate using Spring , iBatis , MS SQL server and fatwire CMS.
+
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Post Scan Mail
+        link: "https://www.postscanmail.com/"
+        tagline: "Mail automation system which enable user to convert his mails to emails that could be managed through web interface like gmail and yahoo."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Certifix Billing System
+        link: "https://www.certifixlivescan.com/"
+        tagline: "A billing system for Certifix a leading live scan service provider in USA. It is responsible for managing customers’ profiles and track invoices in all statuses including online payment using USAePay gateway."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Sabq
+        link: "https://sabq.org/"
+        tagline: "The most famous online newspaper in KSA. A single page news application with custom and complex flow for managing news."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: EgyptFOSS
+        link: "https://egyptfoss.org/en/"
+        tagline: "Platform for free and open source community in egypt. Platform consists of news, events, wiki, semantic search and more. Available for Android and IOS"
 
-      - title: Delta
+      - title: Egyptian Scholars Portfolio
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Building academic portfolio for Egyptian universities staff, Integrating and importing data from 30 different sources using Pentaho data integration(Kettle)."
+
+      - title: Clock in Portal
+        link: "https://www.clockinportal.com/"
+        tagline: "Cloud-based time tracking system that manage employees time-sheets, vacation and more."
+
+      - title: Fnar
+        link: "https://foox.net/"
+        tagline: "Building a social network for entrepreneurs, investors and mentors to communicate with each other."
+
+      - title: PARLOD
+        link: "https://www.parlod.com/"
+        tagline: "Customizing already built e-learning system for managing courses, lectures, assignments and quizzes."
+
+      - title: Foox
+        link: "https://foox.net/"
+        tagline: "Simple website for managing user bookmarks."
 
 publications:
-    title: Publications
+    title: Certificates
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Professional Scrum Master (PSM 1)
+        conference: https://www.scrum.org/user/226248
+        authors: Scrum.org, 2017
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: ICAgile Certified Professional (ICP)
+        authors: ICAgile, 2018
+        conference: https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/7243df4f-fe5a-4596-9f62-d3af4071dcb5
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Scrum
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Kanban
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Continuous Integration
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Continuous Delivery
         level: 60%
 
+      - name: TDD
+        level: 80%
+
+      - name: BDD
+        level: 70%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
