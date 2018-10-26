@@ -9,8 +9,11 @@ layout: compress
 
 <body class="post">
   <div class="wrapper">
+         {% comment %}src="https://domain.me/wp-content/uploads/2017/05/Me-blog-cover-How-To-Launch-Your-Streaming-Career-101-Getting-Your-Stream-On-maj-2017.jpg"{% endcomment %}
 
-    <img style="width:100%;height:300px;" src="https://domain.me/wp-content/uploads/2017/05/Me-blog-cover-How-To-Launch-Your-Streaming-Career-101-Getting-Your-Stream-On-maj-2017.jpg"/>
+    <img style="width:100%;height:300px;" 
+         src = "{{ page.image }}"
+         />
       {{ content }}
   </div>
 

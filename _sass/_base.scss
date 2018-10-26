@@ -312,6 +312,9 @@ p {
     font-size: 25px;
     color: $theme-color;
   }
+  p {
+    text-align: justify;
+  }
   .date {
     color: #aaaaaa;
     font-size: 15px;
