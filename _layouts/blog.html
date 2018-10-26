@@ -7,17 +7,18 @@ layout: compress
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 {% include head.html %}
 
-<body>
+<body class="post">
   <div class="wrapper">
-    {% include sidebar.html %}
 
-    <div class="main-wrapper">
+    <img style="width:100%;height:300px;" src="https://domain.me/wp-content/uploads/2017/05/Me-blog-cover-How-To-Launch-Your-Streaming-Career-101-Getting-Your-Stream-On-maj-2017.jpg"/>
       {{ content }}
-    </div>
   </div>
 
   {% include footer.html %}
 
+  <script>
+    var youtube_links = "{{ page.youtubeLinks}}";
+  </script>
   {% include scripts.html %}
 </body>
 
