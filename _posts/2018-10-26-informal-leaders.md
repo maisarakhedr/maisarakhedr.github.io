@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Informal Leaders, The Double-Edged Sword"
-description: "I came a cross the term Informal Leader and how it
-affects company change either positively or negatively. I copied the main takeaways from many articles to highlight the concept."
+description: "Informal Leaders can affect company change either positively or negatively."
 image: /assets/images/informalleaders.png
 youtubeLinks: "https://www.youtube.com/embed/Qu3xpp5BbHU"
 ---

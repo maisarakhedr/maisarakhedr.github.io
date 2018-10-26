@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: maisarakhedr@gmail.com
 #    phone: 012 345 6789
-    website: maisarakhedr.github.io #do not add http://
+    website: maisarakhedr.github.io/blog #do not add http://
     linkedin: maisara-khedr
-    github: maisarakhedr
+#    github: maisarakhedr
     gitlab:
     bitbucket:
 #    twitter: '@webjeda'
@@ -150,6 +150,9 @@ publications:
         authors: ICAgile, 2018
         conference: https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/7243df4f-fe5a-4596-9f62-d3af4071dcb5
 
+      - title: ICAgile Certified Professional - Agile Team Facilitation
+        authors: ICAgile, 2018
+        conference: https://icagile.com/Agile-Professionals/Find-Agile-Professionals/ctl/UserDetails/mid/938/uid/7243df4f-fe5a-4596-9f62-d3af4071dcb5
 
 skills:
     title: Skills &amp; Proficiency
