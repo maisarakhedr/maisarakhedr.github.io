@@ -48,20 +48,10 @@ trying to do, when we talked about doing this kind of work in the late
 Snowbird.[\*](https://martinfowler.com/articles/agile-aus-2018.html)
 
 He talked about 3 problems that face the community that we should fight
-against, I'll mention below two of them which are related to the article
+against, I'll mention below one of them which are related to the article
 context
 
-1.  The Agile Industrial Complex imposing methods on people is an
-absolute travesty, which is against the first value of Agile
-"Individuals and Interactions over Processes and Tools" ,  "If you
-want to succeed in doing software development, you need to find good
-people. You need to find good people that work together at a human
-level, so they can collaborate effectively. The choice of what tools
-they use or what process they should follow is second order" he
-said. So a team should choose its process, and continue to evolve it
-as there is no  one-size-fits-all in software development.
-
-2.  The lack of recognition of the importance of technical
+*  The lack of recognition of the importance of technical
 excellence. He mentioned that A lot of agile conferences don't
 tend to talk very much about the actual techniques of writing
 software. which cause that agile conferences are now
@@ -74,8 +64,6 @@ managers and created the "[Software Craftsmanship
 Movement](http://manifesto.softwarecraftsmanship.org/#/en) ".
 Which is against the whole point of agile which is to combine
 across all different areas.
-
-
 
 
 However [Robert C Martin (Uncle
@@ -164,73 +152,15 @@ often, the developers suffer more than anyone.
 He listed things that can go wrong in Scrum which lead to Dark
 Scrum:
 
-*   Self-organization is slow to happen.
-
-
-    *   Clearly it takes some time to get good at Scrum. It has new
-roles and activities. Even more difficult, it asks that we take
-on new values. We’re supposed to let our developers
-self-organize to do the work. It’s easy to call the Scrum
-meetings and call ourselves by Scrum roles. It’s not at all easy
-to really walk the walk.
-
-    *   Dark Scrum begins when people who know their old job, but
-not their new Scrum job, begin to do the Scrum activities. It
-goes like this:
-
-
-*   Power holder oppresses the team every day in "Daily Scrum".
-
-
-    *   He used the term “power holders” to mean all the people who,
-especially in Dark Scrum, have and exert power over the
-developers. The use of power is often misguided, whether by a
-development manager, a team lead, a Product Owner, or even a
-Scrum Master.
-
-    *   The power holder already knows his job. His job is to stay
-on top of what everyone is doing, make sure they’re doing the
-right things, and redirect them if they’re not. How convenient
-that there’s a mandatory meeting where he can do that, every
-single day "Daily Scrum".
-
-    *   Instead of the team rallying around their joint mission and
-sorting out a good approach for the day in the "Daily Scrum",
-someone else drags information of of them, processes it in their
-head, and then tells everyone what to do. Since nothing ever
-goes quite as we expected yesterday morning, this improper
-activity often comes with a lot of blame-casting and tension.
-
-
-*   Business-side is not available in Sprint Planning or not
+*   It takes time to get good a t Scrum, Self-organization is slow to happen.
+*   He used a term called Power holders, which mean people who have and exert power over
+developers whether by a development manager, a team lead, a Product
+Owner, or even a Scrum Master. They can drive the team to Dark scrum by
+    *   Power holder oppresses the team every day in "Daily Scrum".
+    *   Business-side is not available in Sprint Planning or not
 trained in how to be a Product Owner.
-
-
-    *   Power holders drive the team
-
-    *   every two weeks power holders show up and tell these
-programmers what they have to build.
-
-
-*   Misuse of sprint review
-
-
-    *   Dark Scrum has power holders, Product Owners, and
-stakeholders for this effort. They make sure the programmers are
-made fully aware of how badly they’ve done. That will surely
-inspire everyone to do better next time
-
-
-*   Misuse of sprint retrospective
-
-
-    *   Dark Scrum leaders remind the team that they fell short,
-make it clear to these developers that their failure was surely
-due to a combination of laziness and incompetence, point out the
-consequences of not improving.
-
-
-
+    *   Misuse of sprint review
+    *   Misuse of sprint retrospective
 
 ## Scrum
 
