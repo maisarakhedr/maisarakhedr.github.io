@@ -283,14 +283,14 @@ p {
     box-shadow: 0 0 8px rgba(0,0,0,0.5);
     left: -5px;
     top: 4px;
-    transform: rotate(-2.5deg);
+    transform: rotate(-0.5deg);
   }
   .wrapper:after {
     background: #fff;
     box-shadow: 0 0 3px rgba(0,0,0,0.5);
     right: -3px;
     top: 1px;
-    transform: rotate(1.4deg);
+    transform: rotate(0.4deg);
   }
   .wrapper:before, .wrapper:after {
     content: "";
