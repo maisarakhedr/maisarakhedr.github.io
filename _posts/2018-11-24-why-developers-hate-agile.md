@@ -7,7 +7,6 @@ to understand those who resist Agile transformation or adoption.
 Recently I started to read more from the other perspective trying to
 understand what they feel, fear and want?"
 image: /assets/images/hateagile.png
-youtubeLinks: "https://www.youtube.com/embed/Qu3xpp5BbHU"
 ---
 
 
@@ -30,8 +29,8 @@ the answer of this question.
 
 
 
-At Agile Australia Conference this year, [Martin
-Fowler](https://en.wikipedia.org/wiki/Martin_Fowler) - Coauthor of Agile
+At Agile Australia Conference this year, **[Martin
+Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)** - Coauthor of Agile
 Manifesto - has a talk entitled "[State of Agile in
 2018](https://www.infoq.com/presentations/agile-2018)". the main point
 of his talk was about the challenge we face as an Agile community right
@@ -39,7 +38,7 @@ now, he said
 
 > Our challenge at the moment isn't making agile a thing that people want
 to do, it's dealing with what I call faux-agile: agile that's just the
-name, but none of the practices and values in place. Ron Jeffries often
+name, but none of the practices and values in place. **Ron Jeffries** often
 refers to it as "Dark Agile", or specifically "Dark Scrum". This is
 actually even worse than just pretending to do agile, it's actively
 using the name "agile" against the basic principles of what we were
@@ -48,7 +47,7 @@ trying to do, when we talked about doing this kind of work in the late
 Snowbird.[\*](https://martinfowler.com/articles/agile-aus-2018.html)
 
 He talked about 3 problems that face the community that we should fight
-against, I'll mention below one of them which are related to the article
+against, I'll mention below one of them which is related to the article
 context
 
 *  The lack of recognition of the importance of technical
@@ -66,30 +65,28 @@ Which is against the whole point of agile which is to combine
 across all different areas.
 
 
-However [Robert C Martin (Uncle
-Bob)](https://en.wikipedia.org/wiki/Robert_C._Martin) -Agile
+However **[Robert C Martin (Uncle
+Bob)](https://en.wikipedia.org/wiki/Robert_C._Martin)** - Agile
 Manifesto coauthor and author of Clean Code - disagree with
 Fowler's opinion on the craftsmanship movement point in his
 [blog
 post](https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html)
 as he is one of the supporters of this movement. But he agrees
-with him in the whole point of view. He (Uncle Bob) talked about
+with him in the whole point of view. He **(Uncle Bob)** talked about
 the same idea years ago in his talk "[The Land that Scrum
 Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk)". Mainly,
-he believes that The Agile movement abandoned it's goal by
+he believes that The Agile movement main goal was to "heal the divide
+between programmers and management" as mentioned by
+**[Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck)** in the Agile Manifesto writing meeting years ago. The Agile movement abandoned it's goal by
 turning Agile into a business that promotes “new-and-better”
 ways to manage. Instead of bringing managers and programmers
 closer together, the Agile movement focussed almost entirely on
-project management, and virtually excluded the programmers.  He
-believes that the main goal of the Agile movement was to "heal
-the divide between programmers and management." as mentioned by
-Kent Beck in the Agile Manifesto writing meeting years ago.
+project management, and virtually excluded the programmers.
 
 
-
-[Dave
-Tomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer))
--Agile Manifesto Coauthor - discussed the same idea too in his
+**[Dave
+Tomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer))** - 
+Agile Manifesto Coauthor - discussed the same idea too in his
 talk "[Agile is
 dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)" at GOTO
 conference 2015, after the success of his blog post "[Agile is
@@ -114,7 +111,7 @@ these terms.
 
 ## Flaccid Scrum
 
-Martin Fowler was the first to introduce this term in his
+**Martin Fowler** was the first to introduce this term in his
 [article "Flaccid
 Scrum"](https://martinfowler.com/bliki/FlaccidScrum.html) back
 to 2009. 
@@ -138,7 +135,7 @@ knees. 
 
 ## Dark Scrum
 
-[Ron Jeffries](https://en.wikipedia.org/wiki/Ron_Jeffries) -
+**[Ron Jeffries](https://en.wikipedia.org/wiki/Ron_Jeffries)** -
 coauthor of Agile Manifesto and coauthor of XP - introduced this
 term in article entitled with the same title ["Dark
 Scrum"](https://ronjeffries.com/articles/016-09ff/defense/), he
@@ -152,29 +149,25 @@ often, the developers suffer more than anyone.
 He listed things that can go wrong in Scrum which lead to Dark
 Scrum:
 
-*   It takes time to get good a t Scrum, Self-organization is slow to happen.
-*   He used a term called Power holders, which mean people who have and exert power over
+*   It takes time to get good at Scrum, Self-organization is slow to happen.
+*   He used a term called Power holders, which means people who have and exert power over
 developers whether by a development manager, a team lead, a Product
 Owner, or even a Scrum Master. They can drive the team to Dark scrum by
     *   Power holder oppresses the team every day in "Daily Scrum".
-    *   Business-side is not available in Sprint Planning or not
+    *   Power holders drive the team,  and tell them what they have to do because Business-side is not available in Sprint Planning or not
 trained in how to be a Product Owner.
-    *   Misuse of sprint review
-    *   Misuse of sprint retrospective
+    *   Power holders misuse the sprint reviewand sprint retrospective
+    by making sure the programmers are made fully aware of how badly they’ve done.
 
 ## Scrum
 
 I'll need to clarify that this is not a problem in Scrum itself,
-Scrum doesn't tell us to ignore technical practices, Martin
-Fowler defended Scrum in the same article "Flaccid Scrum" 
+Scrum doesn't tell us to ignore technical practices, **Martin
+Fowler** defended Scrum in the same article "Flaccid Scrum" 
 
 > I've mentioned Scrum because when we see this problem, Scrum
 seems to be particularly common as the nominative process the
-team is following. For many people, this situation is
-exacerbated by Scrum because Scrum is process that's centered on
-project management techniques and deliberately omits any
-technical practices, in contrast to (for example) Extreme
-Programming. 
+team is following. 
 
 > In defense of Scrum, it's important to point out that just
 because it doesn't include technical activities within its scope
@@ -184,7 +177,7 @@ they've always emphasized that you must have good technical
 practices to succeed with a Scrum project. They don't mandate
 what those technical practices should be, but you do need them.
 
-Also Ron Jeffries mentioned that Scrum is actually trying to
+Also **Ron Jeffries** mentioned that Scrum is actually trying to
 change all what he described as Dark Scrum. But until the hearts
 and minds of the organization actually change, there’ll be too
 much of the old-style management happening … and now it happens
@@ -192,14 +185,14 @@ every couple of weeks … often every single day!
 
 
 
-Furthermore [Ken
-Shwaber](https://en.wikipedia.org/wiki/Ken_Schwaber) - Coauthor
+Furthermore **[Ken
+Shwaber](https://en.wikipedia.org/wiki/Ken_Schwaber)** - Coauthor
 of Scrum and Agile Manifesto -  agrees Martin Fowler on "Flaccid
 Scrum". If you'd like to see the creator of Scrum "inspect and
 adapt", please check his
 [letter](https://www.scrum.org/index.php/about) in why he
 created "Scrum.org". It's kind of retrospective, Scrum Guide
-itself was an action item to fight "Flaccid Scrum".
+itself and PSM certificate were action items to fight "Flaccid Scrum".
 
 
 
@@ -217,7 +210,7 @@ better.
 
 
 
-Ron Jeffries in his article Dark Scrum mentioned some practices
+**Ron Jeffries** in his article Dark Scrum mentioned some practices
 that could help Scrum teams do it right and avoid Dark Scrum,
 here it follow
 
@@ -275,7 +268,7 @@ better things go. Building “all the time” seems to go best
 
 ## Conclusion
 
-There is a quote for Uncle bob which say it all
+There is a quote for **Uncle Bob** which say it all
 
 > Scrum without technical practices becomes a tractor
 pull. Every sprints it gets harder and harder and harder to make
